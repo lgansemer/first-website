@@ -1,0 +1,29 @@
+ nav {
+    border: 5px dotted teal; 
+}
+ul li {display: inline;}
+header {
+  float: left;
+}
+nav {
+    background-color: #eeeeee;
+    width:800px;
+    padding: 10px;
+}
+body {
+    color: #eeeeee;
+    background-color: #f9f8f6;
+    font-family: 'Roboto', sans-serif;
+    line-height: 1.4em;
+}
+li{ 
+    margin-right: 20px;
+    color: #000;
+} 
+
+div {
+    box-sizing: border-box;
+height:500px;
+background-image: url(images/rustic-kitchen-teal.png);
+background-repeat: no-repeat;
+}
